@@ -1,0 +1,27 @@
+Quiero que me generes una página web simple en HTML, CSS y JavaScript en un solo archivo.
+
+La página debe ser minimalista y estar pensada para abrirse cuando alguien escanee un código QR.
+
+Requisitos:
+
+1. Cuando la página se abra, debe iniciar automáticamente un cronómetro regresivo de 15 minutos (15:00).
+2. El cronómetro debe mostrarse grande en el centro de la pantalla y contar hacia atrás hasta 00:00.
+3. Cuando el tiempo termine, debe mostrar el mensaje "PROMOCIÓN TERMINADA".
+4. Arriba del todo debe haber espacio para un logo de una pizzería.
+5. Debajo del cronómetro debe aparecer este texto:
+
+PROMOCIÓN SECRETA 🍕
+
+Compra una pizza familiar  
+y te regalamos una mediana.
+
+Muestra esta pantalla en caja  
+antes de que termine el tiempo.
+
+6. El diseño debe ser muy limpio y centrado, optimizado para teléfonos móviles.
+7. Usa colores relacionados con pizza (rojo, blanco, etc.).
+8. Todo debe funcionar sin backend ni servidor, solo un archivo HTML.
+9. El cronómetro debe empezar automáticamente cuando se abre la página.
+10. El código debe ser fácil de editar para cambiar el logo o el texto.
+
+Devuélveme el archivo completo listo para copiar y usar.
